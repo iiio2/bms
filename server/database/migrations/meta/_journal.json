@@ -15,6 +15,27 @@
       "when": 1732281677643,
       "tag": "0001_mysterious_forge",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1732286250567,
+      "tag": "0002_glorious_nico_minoru",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1732286846674,
+      "tag": "0003_strange_risque",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1732290705229,
+      "tag": "0004_huge_james_howlett",
+      "breakpoints": true
     }
   ]
 }
