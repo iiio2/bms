@@ -11,14 +11,15 @@
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
-    "drizzle-orm": "^0.36.3",
+    "drizzle-orm": "^0.36.4",
+    "formkit": "^1.6.9",
     "nuxt": "^3.14.1592",
     "pg": "^8.13.1",
     "usebootstrap": "^3.5.100",
     "vue": "latest",
     "vue-router": "latest"
   },
-  "packageManager": "pnpm@8.9.2+sha1.5f2fa48d614263457cf5d7fb7be8b878da318d87",
+  "packageManager": "pnpm@9.14.2",
   "devDependencies": {
     "@types/pg": "^8.11.10",
     "drizzle-kit": "^0.28.1"
