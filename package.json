@@ -11,8 +11,10 @@
     "db:generate": "drizzle-kit generate"
   },
   "dependencies": {
+    "@formkit/core": "^1.6.9",
+    "@formkit/nuxt": "^1.6.9",
+    "@formkit/vue": "^1.6.9",
     "drizzle-orm": "^0.36.4",
-    "formkit": "^1.6.9",
     "nuxt": "^3.14.1592",
     "pg": "^8.13.1",
     "usebootstrap": "^3.5.100",
