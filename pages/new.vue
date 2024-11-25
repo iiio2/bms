@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { FormKit } from '@formkit/vue'
 const name = ref('')
 const desc = ref('')
 </script>

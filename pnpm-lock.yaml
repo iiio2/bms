@@ -30,7 +30,7 @@ importers:
         specifier: ^3.5.100
         version: 3.5.100(@popperjs/core@2.11.8)(@tiptap/core@2.10.2(@tiptap/pm@2.10.2))(@unocss/webpack@0.63.6(rollup@4.27.3)(webpack@5.96.1(esbuild@0.23.1)))(@vue/runtime-core@3.5.13)(h3@1.13.0)(ioredis@5.4.1)(magicast@0.3.5)(nuxt@3.14.1592(@parcel/watcher@2.5.0)(@types/node@22.9.1)(drizzle-orm@0.36.4(@types/pg@8.11.10)(pg@8.13.1))(ioredis@5.4.1)(magicast@0.3.5)(rollup@4.27.3)(sass@1.77.6)(terser@5.36.0)(typescript@5.6.3)(vite@5.4.11(@types/node@22.9.1)(sass@1.77.6)(terser@5.36.0)))(postcss@8.4.49)(rollup@4.27.3)(typescript@5.6.3)(vite@5.4.11(@types/node@22.9.1)(sass@1.77.6)(terser@5.36.0))(vue@3.5.13(typescript@5.6.3))(webpack@5.96.1(esbuild@0.23.1))(workbox-build@7.3.0)(workbox-window@7.3.0)
       vue:
-        specifier: latest
+        specifier: ^3.5
         version: 3.5.13(typescript@5.6.3)
       vue-router:
         specifier: latest
